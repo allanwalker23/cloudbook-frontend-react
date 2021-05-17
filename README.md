@@ -4,7 +4,7 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 ## Telas
 ![home](https://user-images.githubusercontent.com/45522944/118493797-e039e500-b6f7-11eb-9d8c-445d6d9fa07f.png)
-
+![info](https://user-images.githubusercontent.com/45522944/118493851-ec25a700-b6f7-11eb-9b84-54b3daf61a44.png)
 ## Available Scripts
 
 In the project directory, you can run:
